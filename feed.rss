@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Lazar Lalović-Full stack, web developer!</title>
+        <link>https://laxon17.github.io/portfolio/index.html</link>
+        <description>News</description>
+            <item>
+                <title>Opscalendar discount!</title>
+                <link>https://laxon17.github.io/portfolio/index.html</link>
+                <description>Hurry up! There's a discount on my Opscalendar app, check It out!</description>
+            </item>
+            <item>
+                <title>Update for Mayordomo!</title>
+                <link>https://laxon17.github.io/portfolio/index.html</link>
+                <description>I updated Mayordomo! Check it out!</description>
+            </item>
+            <item>
+                <title>New app!</title>
+                <link>https://laxon17.github.io/portfolio/index.html</link>
+                <description>I published a new app! Fastest buyers get a discount.</description>
+            </item>
+    </channel>
+</rss>
